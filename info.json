@@ -1,0 +1,855 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://nav.iowen.cn/",
+            "path": "index.html",
+            "saved": true,
+            "size": 301094,
+            "children": [
+                {
+                    "url": "https://cdn.iowen.cn/gh/owen0o0/ioStaticResources/banner/wHoOcfQGhqvlUkd.jpg",
+                    "path": "img/wHoOcfQGhqvlUkd.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/uploads/2020/01/ywdh-logo-1.png",
+                    "path": "img/ywdh-logo-1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/uploads/2020/01/ywdh-logo.png",
+                    "path": "img/ywdh-logo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/uploads/2020/01/ywdh-logo-bark-ico.png",
+                    "path": "img/ywdh-logo-bark-ico.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/uploads/2020/01/ywdh-logo-ico.png",
+                    "path": "img/ywdh-logo-ico.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/themes/onenav/images/hotico/baidu.png",
+                    "path": "img/baidu.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/themes/onenav/images/hotico/wuaipojie.png",
+                    "path": "img/wuaipojie.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/themes/onenav/images/hotico/douban.png",
+                    "path": "img/douban.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/themes/onenav/images/hotico/douyin.png",
+                    "path": "img/douyin.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/themes/onenav/images/hotico/weibo.png",
+                    "path": "img/weibo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/themes/onenav/images/favicon.png",
+                    "path": "img/favicon.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/uploads/avatars/1.jpg?_=1615826147",
+                    "path": "img/1.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/themes/onenav/images/avatar.png",
+                    "path": "img/avatar.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/uploads/2022/01/iotheme_qq_r83jr833.png",
+                    "path": "img/iotheme_qq_r83jr833.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/themes/onenav/images/qr.png",
+                    "path": "img/qr.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.iotheme.cn/wp-content/uploads/2021/02/onenavad.jpg",
+                    "path": "img/onenavad.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/uploads/2020/01/20200115161627_a8298e49.png",
+                    "path": "img/20200115161627_a8298e49.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/undraw.co.png",
+                    "path": "undraw.co.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/color.adobe.com.png",
+                    "path": "color.adobe.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/www.iowen.cn.png",
+                    "path": "www.iowen.cn.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/uploads/2019/11/uisdc.png",
+                    "path": "img/uisdc.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/www.ui.cn.png",
+                    "path": "www.ui.cn.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/www.zcool.com.cn.png",
+                    "path": "www.zcool.com.cn.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/uigreat.com.png",
+                    "path": "uigreat.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/sicangziti.com.png",
+                    "path": "sicangziti.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/www.iconfont.cn.png",
+                    "path": "www.iconfont.cn.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/ui-cloud.com.png",
+                    "path": "ui-cloud.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/www.aigei.com.png",
+                    "path": "www.aigei.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/16map.com.png",
+                    "path": "16map.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/www.ozss.com.png",
+                    "path": "www.ozss.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/jdapk.com.png",
+                    "path": "jdapk.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/www.sjsdh.cn.png",
+                    "path": "www.sjsdh.cn.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/www.appboluo.com.png",
+                    "path": "www.appboluo.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/foxirj.com.png",
+                    "path": "foxirj.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/uploads/2022/07/bk.webp",
+                    "path": "img/bk.webp",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/hao.ozss.com.png",
+                    "path": "hao.ozss.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/www.seemac.cn.png",
+                    "path": "www.seemac.cn.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/uploads/2019/12/bce5add2d2c04295_100_100.png",
+                    "path": "img/bce5add2d2c04295_100_100.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/mp4fan.org.png",
+                    "path": "mp4fan.org.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/www.producthunt.com.png",
+                    "path": "www.producthunt.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/pan.baidu.com.png",
+                    "path": "pan.baidu.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/pantayun.com.png",
+                    "path": "pantayun.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/yun.bianyue.cn.png",
+                    "path": "yun.bianyue.cn.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/onedrive.live.com.png",
+                    "path": "onedrive.live.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/www.weiyun.com.png",
+                    "path": "www.weiyun.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/www.google.com.png",
+                    "path": "www.google.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/cloud.189.cn.png",
+                    "path": "cloud.189.cn.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/www.aliyundrive.com.png",
+                    "path": "www.aliyundrive.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/115.com.png",
+                    "path": "115.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/uploads/2022/06/hifast.png",
+                    "path": "img/hifast.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/uploads/2021/12/%E7%AD%91%E7%9B%8A%E7%BD%91-1%C3%971.png",
+                    "path": "img/筑益网-1×1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/qiimee.com.png",
+                    "path": "qiimee.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/www.xkipa.com.png",
+                    "path": "www.xkipa.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/www.toolait.cn.png",
+                    "path": "www.toolait.cn.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/www.hanfugo.xyz.png",
+                    "path": "www.hanfugo.xyz.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/www.mjjloc.com.png",
+                    "path": "www.mjjloc.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/vanschneider.com.png",
+                    "path": "vanschneider.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/klart.io.png",
+                    "path": "klart.io.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/trianglify.io.png",
+                    "path": "trianglify.io.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/www.flatuicolorpicker.com.png",
+                    "path": "www.flatuicolorpicker.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/www.colorhunt.co.png",
+                    "path": "www.colorhunt.co.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/coolors.co.png",
+                    "path": "coolors.co.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/flatuicolors.com.png",
+                    "path": "flatuicolors.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/www.thedayscolor.com.png",
+                    "path": "www.thedayscolor.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/www.grabient.com.png",
+                    "path": "www.grabient.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/webgradients.com.png",
+                    "path": "webgradients.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/webkul.github.io.png",
+                    "path": "webkul.github.io.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/uploads/2021/11/d440b-shipin520.com.png",
+                    "path": "img/d440b-shipin520.com.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/www.kuaipng.com.png",
+                    "path": "www.kuaipng.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/stock.tuchong.com.png",
+                    "path": "stock.tuchong.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/www.sccnn.com.png",
+                    "path": "www.sccnn.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/psefan.com.png",
+                    "path": "psefan.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/www.lanrentuku.com.png",
+                    "path": "www.lanrentuku.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/www.nipic.com.png",
+                    "path": "www.nipic.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/90sheji.com.png",
+                    "path": "90sheji.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/www.ooopic.com.png",
+                    "path": "www.ooopic.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/588ku.com.png",
+                    "path": "588ku.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/www.58pic.com.png",
+                    "path": "www.58pic.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/medialoot.com.png",
+                    "path": "medialoot.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/uploads/2020/03/20200305153742_fc6e5c59.png",
+                    "path": "img/20200305153742_fc6e5c59.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/eux.baidu.com.png",
+                    "path": "eux.baidu.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/jelly.jd.com.png",
+                    "path": "jelly.jd.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/ued.baidu.com.png",
+                    "path": "ued.baidu.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/mux.alimama.com.png",
+                    "path": "mux.alimama.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/isux.tencent.com.png",
+                    "path": "isux.tencent.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/tgideas.qq.com.png",
+                    "path": "tgideas.qq.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/cdc.tencent.com.png",
+                    "path": "cdc.tencent.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/www.niceui.cn.png",
+                    "path": "www.niceui.cn.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/eicoinc.com.png",
+                    "path": "eicoinc.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/design.google.png",
+                    "path": "design.google.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.iowen.cn/favicon/design.facebook.com.png",
+                    "path": "design.facebook.com.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/themes/onenav/js/jquery.min.js?ver=3.1919",
+                    "path": "js/jquery.min.js",
+                    "saved": true,
+                    "size": 86659,
+                    "children": []
+                },
+                {
+                    "url": "https://sdk.51.la/js-sdk-pro.min.js",
+                    "path": "js/js-sdk-pro.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.iowen.cn/jitang/api/?format=js&charset=utf-8",
+                    "path": "js/api.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/themes/onenav/js/swiper-bundle.min.js?ver=3.1919",
+                    "path": "js/swiper-bundle.min.js",
+                    "saved": true,
+                    "size": 135867,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/themes/onenav/js/popper.min.js?ver=3.1919",
+                    "path": "js/popper.min.js",
+                    "saved": true,
+                    "size": 21123,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/themes/onenav/js/bootstrap.min.js?ver=3.1919",
+                    "path": "js/bootstrap.min.js",
+                    "saved": true,
+                    "size": 62405,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/themes/onenav/js/theia-sticky-sidebar.js?ver=3.1919",
+                    "path": "js/theia-sticky-sidebar.js",
+                    "saved": true,
+                    "size": 16324,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/themes/onenav/js/lazyload.min.js?ver=3.1919",
+                    "path": "js/lazyload.min.js",
+                    "saved": true,
+                    "size": 8385,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/themes/onenav/js/app.min.js?ver=3.1919",
+                    "path": "js/app.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/themes/onenav/css/iconfont.css?ver=3.1919",
+                    "path": "css/iconfont.css",
+                    "saved": true,
+                    "size": 6593,
+                    "children": [
+                        {
+                            "url": "https://nav.iowen.cn/wp-content/themes/onenav/css/fonts/iconfont.woff2?t=1657880974744",
+                            "path": "fonts/iconfont.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://nav.iowen.cn/wp-content/themes/onenav/css/fonts/iconfont.woff?t=1657880974744",
+                            "path": "fonts/iconfont.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://nav.iowen.cn/wp-content/themes/onenav/css/fonts/iconfont.ttf?t=1657880974744",
+                            "path": "fonts/iconfont.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://at.alicdn.com/t/font_1620678_18rbnd2homc.css?ver=3.1919",
+                    "saved": false
+                },
+                {
+                    "url": "https://at.alicdn.com/t/font_2811503_rz4zraeosal.css?ver=3.1919",
+                    "saved": false
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/themes/onenav/css/bootstrap.min.css?ver=3.1919",
+                    "path": "css/bootstrap.min.css",
+                    "saved": true,
+                    "size": 161978,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/themes/onenav/css/swiper-bundle.min.css?ver=3.1919",
+                    "path": "css/swiper-bundle.min.css",
+                    "saved": true,
+                    "size": 15563,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/themes/onenav/css/style.min.css?ver=3.1919",
+                    "path": "css/style.min.css",
+                    "saved": true,
+                    "size": 105594,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/uploads/2020/01/favicon.ico",
+                    "path": "favicon.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/themes/onenav/images/app-ico.png",
+                    "path": "img/app-ico.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://nav.iowen.cn/wp-content/uploads/2021/11/screenshot.png",
+                    "path": "img/screenshot.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "nav-iowen-cn-cqxn4ld",
+    "info": {
+        "remark": [],
+        "title": "一为导航 | 设计师网址导航",
+        "domain": "nav.iowen.cn",
+        "origin": "https://nav.iowen.cn",
+        "ip": "114.215.26.70",
+        "main": "index.html",
+        "url": "https://nav.iowen.cn/",
+        "totalSize": "922 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://nav.iowen.cn/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://nav.iowen.cn/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Wed, 27 Jul 2022 07:51:04 GMT",
+                "content-type": "text/html; charset=UTF-8",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "vary": "Accept-Encoding",
+                "set-cookie": [
+                    "X_CACHE_KEY=4cf84d0ad4ba0aae2c8f7f0aadfa423d; path=/; Expires=Fri, 31-Dec-9999 23:59:59 GMT"
+                ],
+                "strict-transport-security": "max-age=31536000, max-age=31536000",
+                "last-modified": "Wed, 27 Jul 2022 03:38:44 GMT",
+                "x-cache": "HIT"
+            }
+        },
+        "time": {
+            "start": "2022-07-27T07:51:03.999Z",
+            "end": "2022-07-27T07:51:16.015Z"
+        }
+    },
+    "options": {
+        "url": "https://nav.iowen.cn/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [
+            "html",
+            "css",
+            "js"
+        ],
+        "filenameGenerator": "byType"
+    }
+}
